@@ -1,9 +1,6 @@
----
-permalink: /index.html
----
 
-# IDEA :
+## IDEA :
 Simple Login page.
-# Tools :
+## Tools :
 - HTML
 - CSS
