@@ -1,5 +1,5 @@
 ---
-permakink: /login.html
+permalink: /login.html
 ---
 
 # IDEA :
