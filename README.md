@@ -1,5 +1,5 @@
 ---
-permalink: /login.html
+permalink: /index.html
 ---
 
 # IDEA :
