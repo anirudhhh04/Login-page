@@ -1,3 +1,7 @@
+---
+permakink: /login.html
+---
+
 # IDEA :
 Simple Login page.
 # Tools :
